@@ -1,0 +1,6 @@
+com\dxc\authorsbooks\controllers\AuthorNotFoundException.class
+com\dxc\authorsbooks\model\Author.class
+com\dxc\authorsbooks\repository\AuthorRepository.class
+com\dxc\authorsbooks\repository\BookRepository.class
+com\dxc\authorsbooks\services\AuthorService.class
+com\dxc\authorsbooks\model\Book.class
